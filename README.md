@@ -1,4 +1,4 @@
-# NovelAiLeak-4chanversion-russian
+# NovelAiLeaks-russian
 Google-Colab notebook of NovelAi API leak (on russian language and some guides)
 
 
