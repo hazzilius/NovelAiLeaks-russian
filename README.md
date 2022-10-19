@@ -1,5 +1,5 @@
 # NovelAiLeaks-russian
-Google-Colab notebook of NovelAi API leak (on russian language and some guides)
+Google-Colab notebook of NovelAi leak (on russian language and some guides)
 
 
 all rights belong to the original creator, i'm just translating 
